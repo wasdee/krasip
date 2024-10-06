@@ -1,0 +1,11 @@
+we are developing a python cli app
+
+we are using 
+- python 3.12
+- 
+
+- use pathlib over os
+- use sh(https://sh.readthedocs.io/en/latest/) over subprocess
+- use pytest
+
+add typing to all functions and classes
